@@ -1,6 +1,5 @@
 <h1 style="text-align: center">Binary Trees</h1>
-![Repo size](https://img.shields.io/github/repo-size/dagemtsehay1/binary_trees)
-![Code size](https://img.shields.io/github/languages/code-size/dagemtsehay1/binary_trees.svg)
+
 
 ## requirment
 Binary Search Tree
